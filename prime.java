@@ -10,7 +10,7 @@ public class prime_nos {
 	       if (isPrime(n)) {  
 	           System.out.println(n + " is a prime number");  
 	       } else {  
-	           System.out.println(n + " is not a prime number");  
+	           System.out.println(n + " is not a number");  
 	       }  
 	   }  
 	  
@@ -26,6 +26,6 @@ public class prime_nos {
 	       return true;  
 	   }  
 	}  
-
+/* I have made a small change in this code */
 
 
